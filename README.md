@@ -12,6 +12,7 @@ Hi! My name is Lucas, and I am currently a senior at Purdue University studying 
     - https://github.com/LucasMazza42/QuantResearch
 - 👯 I’m looking to collaborate on new in machine learning 
 
-![LinkedIn](/images/linkedin_logo.png)
+![LinkedIn](![image](https://github.com/LucasMazza42/LucasMazza42/assets/47802441/4ebb5584-3c21-42db-aa9c-29b61eff97f0)
+)
 [Connect with me on LinkedIn](https://www.linkedin.com/in/lucas-mazza-8ab9511b5/)
 
