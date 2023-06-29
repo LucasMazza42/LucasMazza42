@@ -1,4 +1,4 @@
-## About Me
+Hi! 
 
 - 🔭 I’m currently working on researching renewable energy.
 - 🌱 I’m currently learning to work with financial data.
