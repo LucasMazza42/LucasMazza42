@@ -1,6 +1,6 @@
 ## Introduction
 
-Hi! My name is Lucas, and I am currently a senior at Purdue University studying data science, statistics, and entrepreneurship.
+Hi! My name is Lucas, and I am a senior at Purdue University studying data science, statistics, and entrepreneurship.
 
 
 
@@ -8,7 +8,7 @@ Hi! My name is Lucas, and I am currently a senior at Purdue University studying 
 
 - 🔭 I’m currently working on researching renewable energy.
     - [Renewable energy ](https://github.com/LucasMazza42/RenewableEnergy)
-- 🌱 I’m currently learning to work with financial data.
+- 🌱 I’m learning to work with financial data.
     - https://github.com/LucasMazza42/QuantResearch
 - 👯 I’m looking to collaborate on -----
 
