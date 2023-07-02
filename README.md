@@ -10,7 +10,6 @@ Hi! My name is Lucas, and I am a senior at Purdue University studying data scien
     - [Renewable energy ](https://github.com/LucasMazza42/RenewableEnergy)
 - 🌱 I’m learning to work with financial data.
     - https://github.com/LucasMazza42/QuantResearch
-- 👯 I’m looking to collaborate on -----
 
 ![LinkedIn](![image](https://github.com/LucasMazza42/LucasMazza42/assets/47802441/4ebb5584-3c21-42db-aa9c-29b61eff97f0)
 )
