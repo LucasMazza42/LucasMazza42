@@ -6,7 +6,7 @@ Hi! My name is Lucas, and I am a senior at Purdue University studying data scien
 
 ### Current Focus
 
-- 🔭 I’m currently working on researching renewable energy.
+- 🔭 I’m researching renewable energy and how machine learning can apply to the energy industry. 
     - [Renewable energy ](https://github.com/LucasMazza42/RenewableEnergy)
 - 🌱 I’m learning to work with financial data and computer vision
     - https://github.com/LucasMazza42/QuantResearch
